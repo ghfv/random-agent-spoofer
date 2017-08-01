@@ -3178,8 +3178,8 @@
 						"profileID":"L23"
 					},
 					{
-						"description":"Firefox 50.0 (Linux 64 bit)",
-						"useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0",
+						"description":"Firefox 55.0 (Linux 64 bit)",
+						"useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0",
 						"appname":"Netscape",
 						"appversion":"5.0 (X11)",
 						"platform":"Linux x86_64",
@@ -3242,8 +3242,8 @@
 						"profileID":"L25"
 					},
 					{
-						"description":"Firefox 51.0 (Linux 64 bit)",
-						"useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0",
+						"description":"Firefox 56.0 (Linux 64 bit)",
+						"useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:56.0) Gecko/20100101 Firefox/56.0",
 						"appname":"Netscape",
 						"appversion":"5.0 (X11)",
 						"platform":"Linux x86_64",
